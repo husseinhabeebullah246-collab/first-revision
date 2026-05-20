@@ -10,7 +10,7 @@ body{
 .first-line{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 70px;
+    gap: 190px;
 }
 .option-1{
     display: grid;
