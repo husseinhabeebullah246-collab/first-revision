@@ -1,0 +1,39 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 600px;
+}
+body{
+    background-color: black;
+    color: white;
+}
+.first-line{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 70px;
+}
+.option-1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+}
+.option-2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+}
+.option-3{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+}
+.option-4{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+}
+.option-5{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+}
