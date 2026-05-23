@@ -42,3 +42,8 @@ body{
     grid-template-columns: 1fr 1fr;
     gap: 50px;
 }
+.option-7{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 50px;
+}
