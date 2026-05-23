@@ -10,7 +10,7 @@ body{
 .first-line{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 70px;
+    gap: 190px;
 }
 .option-1{
     display: grid;
@@ -40,5 +40,10 @@ body{
 .option-6{
     display: grid;
     grid-template-columns: 1fr 1fr;
+    gap: 50px;
+}
+.option-7{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
     gap: 50px;
 }
